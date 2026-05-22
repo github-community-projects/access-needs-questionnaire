@@ -117,7 +117,7 @@ Optional questions to help us learn what's working and where we can improve.
 ### What's something GitHub is doing well when it comes to accessibility?
 *free-form text field*
 
-### What's one thing that would make your work life easier or more accessible?
+### What's one thing that would make your work on GitHub easier or more accessible?
 *free-form text field*
 
 ## 📢 Closing Privacy Statement
