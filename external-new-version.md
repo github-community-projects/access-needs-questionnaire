@@ -56,11 +56,12 @@ These questions focus on how people modify or adapt their environments to work b
 - [ ] Other: *free-form text field*
 
 ## Section 4: Work Environment
-These questions help us understand the work style and environment of GitHub users who require accessibility support..
+These questions help us understand the work style and environment of GitHub users who require accessibility support.
 
 ### Which of the following programming languages do you use to develop on GitHub?
 List of programming languages taken from https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/#the-top-programming-languages-of-2025-typescript-jumps-to-1-while-python-takes-2
 (Check all that apply)
+- [ ] I don't use GitHub to write code.
 - [ ] TypeScript
 - [ ] Python
 - [ ] JavaScript
@@ -72,7 +73,6 @@ List of programming languages taken from https://github.blog/news-insights/octov
 - [ ] HCL
 - [ ] Go
 - [ ] Other: *free-form text field*
-- [ ] I don't use GitHub to write code.
 
 ### What kind of work best describes the work that you do on GitHub?
 Select all that apply.
@@ -86,28 +86,28 @@ Select all that apply.
 - [ ] I am employed by an organization that pays me to do work for them on GitHub. 
 - [ ] I am self employed and use GitHub to perform work for paying clients.
 - [ ] I am a student who uses GitHub for educational purposes.
-- [ ] I don't use GitHub for paying work.
+- [ ] I don't use GitHub for paid work.
 
 ### On a scale of 1–5, how well do GitHub's accessibility features support your access needs?
-Not at all
+Not easy at all
 1
 2
 3
 4
 5
-Extremely well
+Extremely easy
 
 ### On a scale of 1–5, how easy is it to use non-GitHub-native accessibility tools with GitHub?
-Not at all
+Not easy at all
 1
 2
 3
 4
 5
-Extremely well
+Extremely easy
 
 ## Section 5: Open Feedback
-Optional questions to help us learn what’s working and where we can improve.
+Optional questions to help us learn what's working and where we can improve.
 
 ### What's something GitHub is doing well when it comes to accessibility, caregiving support, or flexibility?
 *free-form text field*
