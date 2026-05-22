@@ -73,7 +73,6 @@ These questions help us understand the work style and environment of GitHub user
 - [ ] Perl
 - [ ] PHP
 - [ ] Python
-- [ ] Pub
 - [ ] Ruby
 - [ ] Rust
 - [ ] Shell
