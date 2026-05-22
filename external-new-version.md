@@ -46,8 +46,7 @@ These questions focus on how people modify or adapt their environments to work b
 - [ ] Personal rituals or systems to manage transitions or focus.
 - [ ] Other: *free-form text field*
 
-### Have you ever opted out of work-related events or opportunities because of accessibility, health, or caregiving needs?
-(Check all that apply)
+### Have you ever opted out of work-related events or opportunities because of accessibility, health, or caregiving needs? (Check all that apply)
 - [ ] I’ve skipped travel-based events (e.g., off-sites, conferences)
 - [ ] I’ve skipped large social or networking events (virtual or in-person)
 - [ ] I’ve stepped back from high-visibility work
@@ -58,9 +57,7 @@ These questions focus on how people modify or adapt their environments to work b
 ## Section 4: Work Environment
 These questions help us understand the work style and environment of GitHub users who require accessibility support.
 
-### Which of the following programming languages do you use to develop on GitHub?
-List of programming languages taken from https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/#the-top-programming-languages-of-2025-typescript-jumps-to-1-while-python-takes-2
-(Check all that apply)
+### Which of the following programming languages do you use to develop on GitHub? (Check all that apply)
 - [ ] I don't use GitHub to write code.
 - [ ] C
 - [ ] C#
@@ -72,6 +69,7 @@ List of programming languages taken from https://github.blog/news-insights/octov
 - [ ] HCL
 - [ ] Java
 - [ ] JavaScript
+- [ ] Kotlin
 - [ ] Perl
 - [ ] PHP
 - [ ] Python
@@ -83,19 +81,18 @@ List of programming languages taken from https://github.blog/news-insights/octov
 - [ ] TypeScript
 - [ ] Other: *free-form text field*
 
-### What kind of work best describes the work that you do on GitHub?
-Select all that apply.
+### What kind of work best describes the work that you do on GitHub? (Check all that apply)
 - [ ] I contribute to open source repositories on an unpaid/volunteer basis.
 - [ ] I contribute to open source repositories in exchange for donations or sponsorship funding.
 - [ ] I contribute to open source repositories because my employer pays me to do so.
 - [ ] I contribute to enterprise repositories because my employer pays me to do so.
 - [ ] I contribute to personal repositories for educational or hobby purposes but don't contribute to open source or enterprise software.
 
-### Which of the following best describes how GitHub fits into your employment?
+### Which of the following best describes how GitHub fits into your employment? (Check all that apply)
 - [ ] I am employed by an organization that pays me to do work for them on GitHub. 
 - [ ] I am self employed and use GitHub to perform work for paying clients.
 - [ ] I am a student who uses GitHub for educational purposes.
-- [ ] I don't use GitHub for paid work.
+- [ ] I don't use GitHub for paid or school work.
 
 ### On a scale of 1–5, how well do GitHub's accessibility features support your access needs?
 Not easy at all
