@@ -62,16 +62,25 @@ These questions help us understand the work style and environment of GitHub user
 List of programming languages taken from https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/#the-top-programming-languages-of-2025-typescript-jumps-to-1-while-python-takes-2
 (Check all that apply)
 - [ ] I don't use GitHub to write code.
-- [ ] TypeScript
-- [ ] Python
-- [ ] JavaScript
-- [ ] Java
+- [ ] C
 - [ ] C#
-- [ ] PHP
-- [ ] Shell
 - [ ] C++
-- [ ] HCL
+- [ ] Dart
+- [ ] Erlang
 - [ ] Go
+- [ ] Haskell
+- [ ] HCL
+- [ ] Java
+- [ ] JavaScript
+- [ ] Perl
+- [ ] PHP
+- [ ] Python
+- [ ] Pub
+- [ ] Ruby
+- [ ] Rust
+- [ ] Shell
+- [ ] Swift
+- [ ] TypeScript
 - [ ] Other: *free-form text field*
 
 ### What kind of work best describes the work that you do on GitHub?
