@@ -118,7 +118,7 @@ Extremely easy
 ## Section 5: Open Feedback
 Optional questions to help us learn what's working and where we can improve.
 
-### What's something GitHub is doing well when it comes to accessibility, caregiving support, or flexibility?
+### What's something GitHub is doing well when it comes to accessibility?
 *free-form text field*
 
 ### What's one thing that would make your work life easier or more accessible?
