@@ -122,4 +122,4 @@ Optional questions to help us learn what's working and where we can improve.
 *free-form text field*
 
 ## 📢 Closing Privacy Statement
-Your responses are anonymous, optional, and confidential. We do not collect names, emails, IPs, or employee IDs. Only aggregate results may be shared to inform Accesscats programming and advocacy efforts. Thank you for contributing to a more inclusive workplace!
+Your responses are anonymous, optional, and confidential. We do not collect names, emails, IPs, or user IDs. Only aggregate results may be shared to inform Accesscats programming and advocacy efforts. Thank you for contributing to a more inclusive community!
