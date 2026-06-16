@@ -18,7 +18,7 @@ This section explores how caregiving responsibilities show up in our community.
 
 ### Do any of the following apply to your caregiving responsibilities? (Check all that apply)
 - [ ] I care for a child with a disability or chronic condition.
-- [ ] I support a child with an IEP or similar educational support plan.
+- [ ] I support a child with an IEP (Individualized Education Program) or similar educational support plan.
 - [ ] I care for an adult with a disability or chronic condition.
 - [ ] I support an aging parent or relative with mobility, health, or safety needs.
 - [ ] I anticipate needing caregiving flexibility in the near future.
