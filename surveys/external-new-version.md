@@ -86,7 +86,7 @@ These questions help us understand the work style and environment of GitHub user
 - [ ] I contribute to open source repositories because my employer pays me to do so.
 - [ ] I contribute to enterprise repositories because my employer pays me to do so.
 - [ ] I contribute to personal repositories for educational purposes.
-- [ ] - [ ] I contribute to personal repositories for hobby purposes.
+- [ ] I contribute to personal repositories for hobby purposes.
 
 ### Which of the following best describes how GitHub fits into your employment? (Check all that apply)
 - [ ] I am employed by an organization that pays me to do work for them on GitHub. 
