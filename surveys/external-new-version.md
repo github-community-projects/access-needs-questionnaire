@@ -13,7 +13,7 @@ This section helps us understand the range of lived experiences in the GitHub us
 - [ ] None of the above
 - [ ] Prefer not to say
 
-### Section 2: About People You Support
+## Section 2: About People You Support
 This section explores how caregiving responsibilities show up in our community.
 
 ### Do any of the following apply to your caregiving responsibilities? (Check all that apply)
