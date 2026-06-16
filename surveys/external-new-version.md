@@ -85,7 +85,8 @@ These questions help us understand the work style and environment of GitHub user
 - [ ] I contribute to open source repositories in exchange for donations or sponsorship funding.
 - [ ] I contribute to open source repositories because my employer pays me to do so.
 - [ ] I contribute to enterprise repositories because my employer pays me to do so.
-- [ ] I contribute to personal repositories for educational or hobby purposes but don't contribute to open source or enterprise software.
+- [ ] I contribute to personal repositories for educational purposes.
+- [ ] - [ ] I contribute to personal repositories for hobby purposes.
 
 ### Which of the following best describes how GitHub fits into your employment? (Check all that apply)
 - [ ] I am employed by an organization that pays me to do work for them on GitHub. 
@@ -117,7 +118,7 @@ Optional questions to help us learn what's working and where we can improve.
 ### What's something GitHub is doing well when it comes to accessibility?
 *free-form text field*
 
-### What's one thing that would make your work life easier or more accessible?
+### What's one thing that would make your work on GitHub easier or more accessible?
 *free-form text field*
 
 ## 📢 Closing Privacy Statement
