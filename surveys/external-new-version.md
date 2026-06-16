@@ -103,7 +103,7 @@ Not easy at all
 5
 Extremely easy
 
-### On a scale of 1–5, how easy is it to use non-GitHub-native accessibility tools with GitHub?
+### On a scale of 1–5, how easy is it to use assistive technologies with GitHub?
 Not easy at all
 1
 2
