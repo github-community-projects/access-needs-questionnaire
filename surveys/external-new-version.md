@@ -95,13 +95,14 @@ These questions help us understand the work style and environment of GitHub user
 - [ ] I don't use GitHub for paid or school work.
 
 ### On a scale of 1–5, how well do GitHub's accessibility features support your access needs?
-Not easy at all
+Not well at all
 1
 2
 3
 4
 5
-Extremely easy
+Extremely well
+N/A
 
 ### On a scale of 1–5, how easy is it to use assistive technologies with GitHub?
 Not easy at all
@@ -111,6 +112,87 @@ Not easy at all
 4
 5
 Extremely easy
+N/A
+
+### On a scale of 1–5, how easy is it for you to use GitHub in your browser?
+Not easy at all
+1
+2
+3
+4
+5
+Extremely easy
+N/A
+
+### On a scale of 1–5, how easy is it for you to use GitHub in your command line?
+Not easy at all
+1
+2
+3
+4
+5
+Extremely easy
+N/A
+
+### On a scale of 1–5, how easy is it to use GitHub Desktop?
+Not easy at all
+1
+2
+3
+4
+5
+Extremely easy
+N/A
+
+### On a scale of 1–5, how easy is it for you to use GitHub Desktop?
+Not easy at all
+1
+2
+3
+4
+5
+Extremely easy
+N/A
+
+### On a scale of 1–5, how easy is it for you to use GitHub Mobile?
+Not easy at all
+1
+2
+3
+4
+5
+Extremely easy
+N/A
+
+### On a scale of 1–5, how much do you feel included in your development community/ies?
+Not included at all
+1
+2
+3
+4
+5
+Completely included
+N/A
+
+### When I have a problem on GitHub, I know where to get answers.
+Strongly disagree
+1
+2
+3
+4
+5
+Strongly agree
+N/A
+
+### When I encounter an accessibility barrier on GitHub, I know how to report it.
+Strongly disagree
+1
+2
+3
+4
+5
+Strongly agree
+N/A
 
 ## Section 5: Open Feedback
 Optional questions to help us learn what's working and where we can improve.
